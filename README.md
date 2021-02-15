@@ -2,7 +2,6 @@
 ![](img/logo.png)
 
 **Course Date:** 15.02.2021 
-
 **Name:** Gamze  
 **Surname:** BABAYİĞİT  
 **Email:** babayigitgamzee@gmail.com  
